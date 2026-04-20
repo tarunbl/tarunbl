@@ -1,6 +1,6 @@
 <div align="center">
 
-# <!-- REPLACE: Your Name -->
+# Tarun Bahl
 
 **Director → VP &nbsp;|&nbsp; Data & AI &nbsp;|&nbsp; Intelligent Automation &nbsp;|&nbsp; Gen AI**
 
