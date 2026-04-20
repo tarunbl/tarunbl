@@ -2,7 +2,7 @@
 
 # Tarun Bahl
 
-**Director → VP &nbsp;|&nbsp; Data & AI &nbsp;|&nbsp; Intelligent Automation &nbsp;|&nbsp; Gen AI**
+**Director &nbsp;|&nbsp; Data & AI &nbsp;|&nbsp; Enterprise Automation &nbsp;|&nbsp; Gen AI**
 
 <br/>
 
@@ -62,7 +62,7 @@ Regulated industries. Real accountability. Global scale. I've learned that the s
 
 | | |
 |:---|:---|
-| **Education** | MBA | BS Physics | Postgraduate Certificate, Machine Learning & AI |
+| **Education** | MBA - BS Physics - Postgraduate Certificate, Machine Learning & AI |
 | **Industries** | Financial Services &nbsp;·&nbsp; Technology & SaaS &nbsp;·&nbsp; Consulting |
 | **Experience** | 20+ years in data, analytics, and AI leadership |
 | **Based in** | SF Bay area, CA |
