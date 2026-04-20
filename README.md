@@ -26,16 +26,12 @@
 
 ## Featured projects
 
-Built to production standards — modular code, reproducible pipelines, documented decisions. Each project reflects the kind of work I lead and the engineering depth I expect from my teams.
 
 <br/>
 
 | Project | Domain | What it does |
 |:---|:---|:---|
-| [**<!-- project-name -->**](#) | Gen AI / RAG | <!-- One-line description: e.g. "Retrieval-augmented generation pipeline for enterprise document Q&A with evaluation framework" --> |
-| [**<!-- project-name -->**](#) | End-to-end ML | <!-- One-line description: e.g. "Full ML pipeline from ingestion to model serving — feature store, training, monitoring" --> |
-| [**<!-- project-name -->**](#) | Analytics & Insights | <!-- One-line description: e.g. "Business intelligence dashboard powered by a clean data model and automated reporting layer" --> |
-| [**<!-- project-name -->**](#) | NLP / Classification | <!-- One-line description: e.g. "Text classification system with explainability layer — built for a regulated industry use case" --> |
+
 
 > Each repo follows a consistent structure: `src/` for clean Python, `notebooks/` for exploration only, architecture diagrams, and a README that explains the business problem — not just the technical approach.
 
@@ -44,18 +40,7 @@ Built to production standards — modular code, reproducible pipelines, document
 ---
 
 ## How I lead
-
-**I close the gap between strategy and engineering.**
-Most AI initiatives fail not because the model is wrong, but because the system around it isn't built to last. My job is to make sure both are right — the roadmap and the foundations it runs on.
-
-**I build teams that ship, not teams that present.**
-High-performing data and AI teams have a culture of ownership, clear success metrics, and a bias toward working software over slide decks. I've built and scaled those teams across Financial Services, SaaS, and Consulting.
-
-**I treat governance as a feature, not a constraint.**
-In regulated industries, data governance done well is a competitive advantage. I've built frameworks that enable speed — not slow it down.
-
-**I stay close to the engineering.**
-That's what this portfolio is for.
+Regulated industries. Real accountability. Global scale. I've learned that the strategy is rarely what fails - it's everything built around it. That's what I focus on.
 
 <br/>
 
@@ -77,10 +62,10 @@ That's what this portfolio is for.
 
 | | |
 |:---|:---|
-| **Education** | Postgraduate Certificate, Machine Learning & AI |
+| **Education** | MBA | BS Physics | Postgraduate Certificate, Machine Learning & AI |
 | **Industries** | Financial Services &nbsp;·&nbsp; Technology & SaaS &nbsp;·&nbsp; Consulting |
-| **Experience** | 15+ years in data, analytics, and AI leadership |
-| **Based in** | <!-- REPLACE: Your City, Country --> |
+| **Experience** | 20+ years in data, analytics, and AI leadership |
+| **Based in** | SF Bay area, CA |
 | **Open to** | Director / VP roles in Data, Analytics & AI |
 
 <br/>
