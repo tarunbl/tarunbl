@@ -1,0 +1,58 @@
+<svg width="100%" viewBox="0 0 680 440" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Skills and domain expertise matrix</title>
+<desc>Six domain cards covering ML and Gen AI, Intelligent Automation, Data Platforms, Analytics, Governance, and Digital Transformation with industry coverage</desc>
+
+<text x="340" y="36" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="500" fill="#1a1a1a">Skills &amp; domain expertise</text>
+<text x="340" y="55" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#888780">15+ years · Financial Services · Technology &amp; SaaS · Consulting</text>
+
+<!-- Card 1: ML & AI / Gen AI — purple -->
+<rect x="40" y="72" width="288" height="98" rx="4" fill="#EEEDFE" stroke="#AFA9EC" stroke-width="0.5"/>
+<rect x="40" y="72" width="288" height="5" rx="0" fill="#7F77DD"/>
+<rect x="40" y="72" width="4" height="98" rx="0" fill="#7F77DD"/>
+<text x="56" y="101" font-family="sans-serif" font-size="14" font-weight="500" fill="#3C3489">ML &amp; AI / Gen AI</text>
+<text x="56" y="121" font-family="sans-serif" font-size="12" fill="#534AB7">FinServ · SaaS · Consulting</text>
+<text x="56" y="141" font-family="sans-serif" font-size="12" fill="#7F77DD">Strategy · Roadmap · Gen AI products</text>
+
+<!-- Card 2: Intelligent Automation — teal -->
+<rect x="352" y="72" width="288" height="98" rx="4" fill="#E1F5EE" stroke="#5DCAA5" stroke-width="0.5"/>
+<rect x="352" y="72" width="288" height="5" rx="0" fill="#1D9E75"/>
+<rect x="352" y="72" width="4" height="98" rx="0" fill="#1D9E75"/>
+<text x="368" y="101" font-family="sans-serif" font-size="14" font-weight="500" fill="#085041">Intelligent Automation</text>
+<text x="368" y="121" font-family="sans-serif" font-size="12" fill="#0F6E56">FinServ · SaaS · Consulting</text>
+<text x="368" y="141" font-family="sans-serif" font-size="12" fill="#1D9E75">100K+ users · 1M+ hrs saved annually</text>
+
+<!-- Card 3: Data Platforms & Architecture — blue -->
+<rect x="40" y="188" width="288" height="98" rx="4" fill="#E6F1FB" stroke="#85B7EB" stroke-width="0.5"/>
+<rect x="40" y="188" width="288" height="5" rx="0" fill="#378ADD"/>
+<rect x="40" y="188" width="4" height="98" rx="0" fill="#378ADD"/>
+<text x="56" y="217" font-family="sans-serif" font-size="14" font-weight="500" fill="#0C447C">Data Platforms &amp; Architecture</text>
+<text x="56" y="237" font-family="sans-serif" font-size="12" fill="#185FA5">FinServ · SaaS</text>
+<text x="56" y="257" font-family="sans-serif" font-size="12" fill="#378ADD">Lakehouse · Data mesh · Cloud infra</text>
+
+<!-- Card 4: Analytics & Insights — amber -->
+<rect x="352" y="188" width="288" height="98" rx="4" fill="#FAEEDA" stroke="#EF9F27" stroke-width="0.5"/>
+<rect x="352" y="188" width="288" height="5" rx="0" fill="#BA7517"/>
+<rect x="352" y="188" width="4" height="98" rx="0" fill="#BA7517"/>
+<text x="368" y="217" font-family="sans-serif" font-size="14" font-weight="500" fill="#633806">Analytics &amp; Insights</text>
+<text x="368" y="237" font-family="sans-serif" font-size="12" fill="#854F0B">FinServ · Consulting</text>
+<text x="368" y="257" font-family="sans-serif" font-size="12" fill="#BA7517">Enterprise BI · Self-serve analytics</text>
+
+<!-- Card 5: Governance & Compliance — coral -->
+<rect x="40" y="304" width="288" height="98" rx="4" fill="#FAECE7" stroke="#F0997B" stroke-width="0.5"/>
+<rect x="40" y="304" width="288" height="5" rx="0" fill="#D85A30"/>
+<rect x="40" y="304" width="4" height="98" rx="0" fill="#D85A30"/>
+<text x="56" y="333" font-family="sans-serif" font-size="14" font-weight="500" fill="#712B13">Governance &amp; Compliance</text>
+<text x="56" y="353" font-family="sans-serif" font-size="12" fill="#993C1D">FinServ · Consulting</text>
+<text x="56" y="373" font-family="sans-serif" font-size="12" fill="#D85A30">Data governance · Risk frameworks</text>
+
+<!-- Card 6: Digital Transformation — gray -->
+<rect x="352" y="304" width="288" height="98" rx="4" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+<rect x="352" y="304" width="288" height="5" rx="0" fill="#888780"/>
+<rect x="352" y="304" width="4" height="98" rx="0" fill="#888780"/>
+<text x="368" y="333" font-family="sans-serif" font-size="14" font-weight="500" fill="#444441">Digital Transformation</text>
+<text x="368" y="353" font-family="sans-serif" font-size="12" fill="#5F5E5A">FinServ · SaaS · Consulting</text>
+<text x="368" y="373" font-family="sans-serif" font-size="12" fill="#888780">Strategy · Execution · Enterprise scale</text>
+
+<!-- Footer -->
+<text x="340" y="422" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#B4B2A9">Director → VP track · Leading data &amp; AI teams across global enterprises</text>
+</svg>
