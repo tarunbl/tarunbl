@@ -10,7 +10,7 @@
 
 <br/>
 
-[LinkedIn →](https://linkedin.com/in/<!-- REPLACE: your-profile-slug -->) &nbsp;&nbsp;|&nbsp;&nbsp; [Email →](mailto:<!-- REPLACE: your@email.com -->) &nbsp;&nbsp;|&nbsp;&nbsp; [<!-- REPLACE: Your City, Country -->]
+[LinkedIn →](www.linkedin.com/in/tarunbahl<!-- REPLACE: your-profile-slug -->) &nbsp;&nbsp;|&nbsp;&nbsp; [Email →](mailto:tarunbl74@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; [California, USA]
 
 </div>
 
