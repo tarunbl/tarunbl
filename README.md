@@ -16,7 +16,6 @@ Building production AI systems — autonomous agents, RAG pipelines, and applied
 | [equity-research-agent](https://github.com/tarunbl/equity-research-agent) | Multi-agent equity research system — parallel data collection, intelligent model routing (Haiku → Sonnet → Opus), two-layer escalation | Claude API · asyncio · Pydantic · yfinance |
 | [MedicalAssistant](https://github.com/tarunbl/MedicalAssistant) | RAG-based medical Q&A over the Merck Manual — Mistral-7B grounded in 4,700 retrieved chunks, evaluated on groundedness and relevance | LangChain · Chroma · llama-cpp-python |
 | [ReneWind](https://github.com/tarunbl/ReneWind) | Wind turbine failure prediction from 40 sensor channels — 7 Keras models iterated to 88% recall | TensorFlow · Keras · SMOTE |
-| [EasyVisa](https://github.com/tarunbl/EasyVisa) | US visa outcome classifier — ensemble methods, SMOTE oversampling, XGBoost tuning | scikit-learn · XGBoost · imbalanced-learn |
 | [superkart](https://github.com/tarunbl/superkart) | Retail sales forecasting with end-to-end deployment — REST API + Streamlit UI on HuggingFace Spaces | scikit-learn · Flask · Docker · Streamlit |
 
 ---
