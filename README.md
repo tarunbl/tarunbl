@@ -1,7 +1,9 @@
 # Tarun Bahl
 
 **Director, Gen AI Enablement & Enterprise Automation · PwC**
-&nbsp;·&nbsp; Postgrad AI/ML · UT Austin (Apr 2026)
+&nbsp;·&nbsp; Postgrad AI/ML · UT Austin
+&nbsp;·&nbsp; MBA · Golden Gate University
+&nbsp;·&nbsp; BS Physics - University of Delhi
 &nbsp;·&nbsp; San Francisco Bay Area
 
 Building production AI systems — autonomous agents, RAG pipelines, and applied deep learning — on top of a decade of enterprise-scale platform architecture.
