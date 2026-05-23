@@ -19,7 +19,7 @@ Building production AI systems - autonomous agents, RAG pipelines, and applied d
 | [MedicalAssistant](https://github.com/tarunbl/MedicalAssistant) | RAG-based medical Q&A over the Merck Manual — Mistral-7B grounded in 4,700 retrieved chunks, evaluated on groundedness and relevance | LangChain · Chroma · llama-cpp-python |
 | [ReneWind](https://github.com/tarunbl/ReneWind) | Wind turbine failure prediction from 40 sensor channels — 7 Keras models iterated to 88% recall | TensorFlow · Keras · SMOTE |
 | [superkart](https://github.com/tarunbl/superkart) | Retail sales forecasting with end-to-end deployment — REST API + Streamlit UI on HuggingFace Spaces | scikit-learn · Flask · Docker · Streamlit |
-
+| [helmnet](https://github.com/tarunbl/helmnet) | Binary image classifier for Kubernetes HelmNet components — CNN fine-tuned on a custom labelled dataset, optimised for low false-negative rate | TensorFlow · Keras · OpenCV |
 ---
 
 ## Tech stack
