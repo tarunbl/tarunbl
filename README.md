@@ -6,7 +6,7 @@
 &nbsp;·&nbsp; BS Physics - University of Delhi
 &nbsp;·&nbsp; San Francisco Bay Area
 
-Building production AI systems — autonomous agents, RAG pipelines, and applied deep learning — on top of a decade of enterprise-scale platform architecture.
+Building production AI systems - autonomous agents, RAG pipelines, and applied deep learning - on top of a decade of enterprise-scale platform architecture.
 
 ---
 
