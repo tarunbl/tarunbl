@@ -1,83 +1,62 @@
-<div align="center">
-
 # Tarun Bahl
 
-**Director &nbsp;|&nbsp; Data & AI &nbsp;|&nbsp; Enterprise Automation &nbsp;|&nbsp; Gen AI**
+**Director, Gen AI Enablement & Enterprise Automation · PwC**
+&nbsp;·&nbsp; Postgrad AI/ML · UT Austin (Apr 2026)
+&nbsp;·&nbsp; San Francisco Bay Area
 
-<br/>
-
-15+ years building data and analytics platforms that scale. Led global Intelligent Automation to 100,000+ users with 1M+ hours saved annually, millions in revenue impact. Now going deep on ML and Gen AI to lead the next generation of that work. I maintain this portfolio to stay close to the work.
-
-<br/>
-
-[LinkedIn →](www.linkedin.com/in/tarunbahl<!-- REPLACE: your-profile-slug -->) &nbsp;&nbsp;|&nbsp;&nbsp; [Email →](mailto:tarunbl74@gmail.com) &nbsp;&nbsp;|&nbsp;&nbsp; [California, USA]
-
-</div>
-
-<br/>
+Building production AI systems — autonomous agents, RAG pipelines, and applied deep learning — on top of a decade of enterprise-scale platform architecture.
 
 ---
 
-![Skills & Domain Expertise](./skills-matrix.svg)
+## What I'm building
 
-<br/>
-
----
-
-## Featured projects
-
-
-<br/>
-
-| Project | Domain | What it does |
-|:---|:---|:---|
-
-
-> Each repo follows a consistent structure: `src/` for clean Python, `notebooks/` for exploration only, architecture diagrams, and a README that explains the business problem — not just the technical approach.
-
-<br/>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [newsletter-agent](https://github.com/tarunbl/newsletter-agent) | Autonomous daily newsletter — 5 agents research, write, and publish every morning without human input | Claude API · web_search · Netlify · Resend |
+| [equity-research-agent](https://github.com/tarunbl/equity-research-agent) | Multi-agent equity research system — parallel data collection, intelligent model routing (Haiku → Sonnet → Opus), two-layer escalation | Claude API · asyncio · Pydantic · yfinance |
+| [MedicalAssistant](https://github.com/tarunbl/MedicalAssistant) | RAG-based medical Q&A over the Merck Manual — Mistral-7B grounded in 4,700 retrieved chunks, evaluated on groundedness and relevance | LangChain · Chroma · llama-cpp-python |
+| [ReneWind](https://github.com/tarunbl/ReneWind) | Wind turbine failure prediction from 40 sensor channels — 7 Keras models iterated to 88% recall | TensorFlow · Keras · SMOTE |
+| [EasyVisa](https://github.com/tarunbl/EasyVisa) | US visa outcome classifier — ensemble methods, SMOTE oversampling, XGBoost tuning | scikit-learn · XGBoost · imbalanced-learn |
+| [superkart](https://github.com/tarunbl/superkart) | Retail sales forecasting with end-to-end deployment — REST API + Streamlit UI on HuggingFace Spaces | scikit-learn · Flask · Docker · Streamlit |
 
 ---
 
-## How I lead
-Regulated industries. Real accountability. Global scale. I've learned that the strategy is rarely what fails - it's everything built around it. That's what I focus on.
+## Tech stack
 
-<br/>
+**AI & Agents**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat)
 
-## Currently exploring
+**ML & Deep Learning**
 
-- **Production-grade RAG and LLM evaluation** — moving beyond demos to systems that can be trusted at enterprise scale
-- **ML applied to structured financial data** — forecasting, anomaly detection, and risk scoring pipelines
-- **Agentic AI workflows** for enterprise process automation — the next chapter of what I built with Intelligent Automation
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-<br/>
+**Data & Infrastructure**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6B35?style=flat)
 
 ---
 
 ## Background
 
-<br/>
+At PwC I lead the Enterprise Automation and Analytics platforms for 150,000+ global users — currently focused on evaluating and integrating LangGraph and RAG-based architectures to evolve low-code automation tools into intelligent, cognitive systems. Delivered $1M+ in annual OpEx savings through platform consolidation and AI-driven operational improvements.
 
-| | |
-|:---|:---|
-| **Education** | MBA - BS Physics - Postgraduate Certificate, Machine Learning & AI |
-| **Industries** | Financial Services &nbsp;·&nbsp; Technology & SaaS &nbsp;·&nbsp; Consulting |
-| **Experience** | 20+ years in data, analytics, and AI leadership |
-| **Based in** | SF Bay area, CA |
-| **Open to** | Director / VP roles in Data, Analytics & AI |
-
-<br/>
+The projects in this portfolio are built on top of that enterprise foundation — applying the same rigour around reliability, cost optimisation, and production readiness to AI and ML systems.
 
 ---
 
-<div align="center">
+## Connect
 
-*Building at the intersection of AI strategy and engineering execution.*
-
-<br/>
-
-[Connect on LinkedIn](https://linkedin.com/in/<!-- REPLACE: your-profile-slug -->)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarun%20Bahl-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunbahl/)
