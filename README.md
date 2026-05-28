@@ -14,6 +14,7 @@ Building production AI systems - autonomous agents, RAG pipelines, and applied d
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
+| [fpa-variance-agent](https://github.com/tarunbl/fpa-variance-agent) | Autonomous FP&A agent — investigates month-end budget variances via Claude tool-use, drafts CFO-ready commentary, surfaces compliance issues (unapproved vendors, missing POs) with full audit trail | Claude API · Pydantic · SQLite · Docker |
 | [newsletter-agent](https://github.com/tarunbl/newsletter-agent) | Autonomous daily newsletter — 5 agents research, write, and publish every morning without human input | Claude API · web_search · Netlify · Resend |
 | [equity-research-agent](https://github.com/tarunbl/equity-research-agent) | Multi-agent equity research system — parallel data collection, intelligent model routing (Haiku → Sonnet → Opus), two-layer escalation | Claude API · asyncio · Pydantic · yfinance |
 | [MedicalAssistant](https://github.com/tarunbl/MedicalAssistant) | RAG-based medical Q&A over the Merck Manual — Mistral-7B grounded in 4,700 retrieved chunks, evaluated on groundedness and relevance | LangChain · Chroma · llama-cpp-python |
